@@ -1,0 +1,18 @@
+body{background-color:red}
+h1{color:#33FFFF;text-align:center;font-family:courier;font-style:Italic;text-decoration:underline;font-size:36pt}
+h2{color:#33FFFF;text-align:right;font-family:Arial;font-weight:Bold;font-size:24pt}
+h3{color:#FF6699;font-family:Arial;font-style:Italic;font-size:20pt}
+h4{color:#291018;text-align:center;font-family:palatino;font-style:Italic;font-size:18pt}
+h5{color:#333300;text-align:right;font-family:palatino;font-weight:bold;font-size:16pt}
+h6{color:#333300;font-family:Californian FB;font-style:Italic;font-size:14pt}
+p{color:black;text-align:justify;font-family:calibri:font-style:Italic;font-size:14pt}
+ul{list-stlye-type:square;color:#CC3300;font-style:italic;font-family:cambria;font-size:14pt}
+ol{list-style-type:upper-roman;color:#521400;font-weight:bold;font-family:cambria;font-size:14pt}
+a:link{color:green}
+a:visited{color:Black}
+a:hover{color:pink}
+a:active{color:red}
+table{border:5px solid;width:600px;height:300px;border-color:blue}
+table tr {background-color:#771100;color:CCCCCC}
+table th{color:teal;background-color:#CC6633;font-size:16pt;font-fanily:candara}
+table td{color:Maroon;background-color:pink;font-size:16pt;font-fanily:candara}
